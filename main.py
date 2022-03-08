@@ -1,7 +1,4 @@
-
-from cgitb import text
 import math
-import re
 from tkinter import *
 from turtle import title
 # ---------------------------- CONSTANTS ------------------------------- #
